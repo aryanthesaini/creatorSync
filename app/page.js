@@ -37,7 +37,9 @@ export default function Home() {
           I am a
         </h1>
         <div className='mt-10 flex justify-evenly'>
-          <a href='#_' className='relative inline-block text-lg group'>
+          <a
+            href='https://45p0mejivpq.typeform.com/to/D9HhUbkt'
+            className='relative inline-block text-lg group'>
             <span className='relative z-10 block px-10 py-3 overflow-hidden font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out border-2 border-gray-900 rounded-lg group-hover:text-white'>
               <span className='absolute inset-0 w-full h-full px-5 py-3 rounded-lg bg-gray-50'></span>
               <span className='absolute left-0 w-48 h-48 -ml-2 transition-all duration-300 origin-top-right -rotate-90 -translate-x-full translate-y-12 bg-gray-900 group-hover:-rotate-180 ease'></span>
@@ -48,7 +50,9 @@ export default function Home() {
               data-rounded='rounded-lg'></span>
           </a>
 
-          <a href='#_' className='relative inline-block text-lg group'>
+          <a
+            href='https://45p0mejivpq.typeform.com/to/IyeSBhxC'
+            className='relative inline-block text-lg group'>
             <span className='relative z-10 block px-10 py-3 overflow-hidden font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out border-2 border-gray-900 rounded-lg group-hover:text-white'>
               <span className='absolute inset-0 w-full h-full px-5 py-3 rounded-lg bg-gray-50'></span>
               <span className='absolute left-0 w-48 h-48 -ml-2 transition-all duration-300 origin-top-right -rotate-90 -translate-x-full translate-y-12 bg-gray-900 group-hover:-rotate-180 ease'></span>
