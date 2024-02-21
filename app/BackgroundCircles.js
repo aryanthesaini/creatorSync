@@ -11,7 +11,7 @@ function BackgroundCircles() {
       }}
       animate={{
         scale: [1, 3, 2, 3, 1],
-        opacity: [0.1, 0.2, 0.4, 0.4, 0.1, 0.8],
+        opacity: [0.1, 0.2, 0.4, 0.4, 0.1, 0.5],
       }}
       transition={{
         duration: 2,
